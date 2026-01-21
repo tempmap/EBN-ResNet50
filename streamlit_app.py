@@ -5,7 +5,7 @@ from prediction import pred_class
 import numpy as np
 
 # Set title 
-st.title('EBN Classification - model EfficientNetv2_b0')
+st.title('EBN Classification - model ResNet-50')
 
 #Set Header 
 st.header('Please up load picture')
